@@ -1,8 +1,8 @@
 # TV-Show-Search-App
 A responsive TV Show Search App using axios, bootstrap, fontawesome, flaticon and TVmaze API.
 
-![alt text](https://i.ibb.co/JmTjg4V/Screenshot-2021-10-09-205650.jpg)
+![alt text](https://i.ibb.co/G3837CL/1.png)
 
-![alt text](https://i.ibb.co/nmPtqRX/Screenshot-2021-10-09-205713.jpg)
+![alt text](https://i.ibb.co/c8QK7Ky/2.png)
 
-![alt text](https://i.ibb.co/0FvjGh7/Screenshot-2021-10-09-205732.jpg)
+![alt text](https://i.ibb.co/9sXWLkp/3.png)
